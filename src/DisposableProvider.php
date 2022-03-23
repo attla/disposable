@@ -1,6 +1,6 @@
 <?php
 
-namespace Attla\Disposable\Providers;
+namespace Attla\Disposable;
 
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 use Illuminate\Support\Facades\Validator;
